@@ -123,7 +123,7 @@ app.post("/send-email", (req, res) => {
     service: 'hotmail',
     auth: {
       user: 'robonexus@hotmail.com',
-      pass: 'Robo@Nexus2024**',
+      pass: '   ',
     },
   });
 
@@ -166,7 +166,7 @@ app.post("/submit-custom-order", (req, res) => {
     service: 'hotmail',
     auth: {
       user: 'robonexus@hotmail.com',
-      pass: 'Robo@Nexus2024**',
+      pass: '   ',
     },
   });
 
