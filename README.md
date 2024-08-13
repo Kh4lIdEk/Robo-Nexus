@@ -486,7 +486,7 @@ Using the same principle of the shop page to send us emails from users (Nodemail
 ### Contact us
 ![contact ](screenshots/contact.png)
 
-## Video Demo
+# Video Demo
 Here's the link to the demo video : 
 https://drive.google.com/file/d/1Sfjq5avNn_VE0GPJ4e0ot63SIOG6-txq/view?usp=sharing
 ---
